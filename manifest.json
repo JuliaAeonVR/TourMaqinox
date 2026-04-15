@@ -1,9 +1,9 @@
 {
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "name": "AeonVR - Tour fábrica Maqinox",
  "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
+ "name": "AeonVR - Tour fábrica Maqinox",
  "icons": [
   {
    "sizes": "150x150",
